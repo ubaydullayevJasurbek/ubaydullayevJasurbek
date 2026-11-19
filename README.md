@@ -80,21 +80,6 @@ I'm an **Android developer** who builds native apps in **Kotlin** and cross-plat
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ubaydullayevJasurbek&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=3DDC84&icon_color=7F52FF&text_color=8b949e&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaydullayevJasurbek&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=3DDC84&text_color=8b949e" alt="Top languages" />
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ubaydullayevJasurbek&theme=transparent&hide_border=true&ring=3DDC84&fire=7F52FF&currStreakLabel=3DDC84&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&stroke=8b949e40" alt="GitHub streak" />
-</div>
-
----
-
 ## 🤝 Contact
 
 <div align="center">
